@@ -1,7 +1,7 @@
 <!-- Typing SVG Header -->
 <p align="center">
   <a href="https://github.com/hassanalirazza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hassan+Ali+Raza+%7C+QA+Engineer;Web+%C2%B7+Mobile+%C2%B7+Blockchain+%C2%B7+Cloud;Manual+%7C+API+%7C+Performance+%7C+Automation;5+Years+Delivering+Software+Quality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hassan+Ali+Raza+%7C+SQA+Engineer;Web+%C2%B7+Mobile+%C2%B7+Blockchain+%C2%B7+Cloud;Manual+%7C+API+%7C+Performance+%7C+Automation;5+Years+Delivering+Software+Quality" alt="Typing SVG" />
   </a>
 </p>
 
